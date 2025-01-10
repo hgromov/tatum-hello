@@ -2,6 +2,7 @@
 This app checks Ethereum wallet balances using the Tatum API
 
 Project setup
+
 Make sure Node.js is installed  
 Check your Node.js version by running:
 ```node -v```
